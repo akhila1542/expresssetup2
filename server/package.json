@@ -1,0 +1,19 @@
+{
+  "name": "todoprojectexpresssetup",
+  "version": "1.0.0",
+  "description": "steps for express",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "git",
+    "github"
+  ],
+  "author": "Akhila",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
